@@ -1,14 +1,17 @@
-# API-fetch-challenge
+# API-beer-fetch-challenge
 
-## What, Why, When, How, Who.
-Making an app fetching beer data and displaing it.
+Api fetch challenge. The result came out like this: https://oliviervdh.github.io/API-beer-fetch-challenge/.
+
+## Description
+
+This project was build to learn how to fetch Json data and display it in a nice way on the web app.
 We made this because it's part of our lessonplan.
-We use fetch to get the data from the API and display it using a mapfunction on a literal template.
+I used fetch to get the data from the API and display it using a mapfunction on a literal template.
 
 ## Pending things to do
 1. add sort function
 2. add filter function
 3. use await and async to fetch all beers in single page
 
-## link to the "live" version
-https://oliviervdh.github.io/API-fetch-challenge/.
+Thanks for reading. 
+
