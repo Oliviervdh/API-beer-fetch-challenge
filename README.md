@@ -13,5 +13,8 @@ I used fetch to get the data from the API and display it using a mapfunction on 
 2. add filter function
 3. use await and async to fetch all beers in single page
 
-Thanks for reading. 
+## Technologies
 
+The technologies used to build this app are HTML, CSS, Javascript & Ajax. 
+
+Thanks for reading, Olivier.
