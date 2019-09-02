@@ -64,7 +64,7 @@ sortPageButton.addEventListener("click", function() {
   data.sort(compare);
 });
 
-//Use fetched data to display it in template literal
+//Use fetched data to display it in template literal "Object.keys is used because the data is an object - map can only work with an array, instead if you use Object.keys in front of it" "join(' ') is used to return all the data as 1 long string."  
 function displayOverviewBeer(data) {
   displayAllBeers.innerHTML = `
                                   ${Object.keys(data).map(key => (
